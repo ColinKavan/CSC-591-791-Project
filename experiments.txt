@@ -1,0 +1,28 @@
+Use Cases:
+
+1: Review generator
+
+2: Casual Chatbot
+
+3: Customer support
+
+nouns:
+Direct hyponym
+Direct hypernym
+sister term
+unrelated
+
+verbs:
+Direct Troponym
+Direct hypernym
+unrelated
+
+Adjectives:
+Synonym
+antonym
+unrelated
+
+adverbs:
+synonym
+antonym
+unrelated
